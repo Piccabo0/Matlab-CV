@@ -1,2 +1,2 @@
 # Matlab-CV
-数字图像处理课大作业
+a matlab-based digital image processing demo
